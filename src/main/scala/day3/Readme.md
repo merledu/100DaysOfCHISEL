@@ -19,4 +19,5 @@
 ![tp](https://user-images.githubusercontent.com/110234585/194366217-4c8fbf2c-c037-4518-adb2-d2aab5da2d8d.PNG)
   <p>In the above example io.input is being typecasted in to Signed Integer (SInt) by the use of syntax ".asSInt".
 </p> 
-
+<h2 align="left">Bitwidth:</h2>
+<p> Bitwidth in a CHISEL code helps in explicitly defining the bits of any data.</p>
