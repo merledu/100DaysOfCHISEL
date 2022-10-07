@@ -3,7 +3,7 @@ import chisel3._
 import org.scalatest._
 import chiseltest._
 
-class Bitwidthtests extends FreeSpec with ChiselScalatestTester{
+class Bitwidthtest extends FreeSpec with ChiselScalatestTester{
     "bitwidth Test" in { 
         test(new bitwidth ()){ c=>
         c.io.input.poke(4.U)
