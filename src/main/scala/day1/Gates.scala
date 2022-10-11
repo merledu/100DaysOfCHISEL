@@ -1,6 +1,7 @@
 package day1
 import chisel3._
 import chisel3.util._
+
 class Gates extends Module{
     val io = IO(new Bundle{
     val a = Input(SInt(4.W))

@@ -1,3 +1,4 @@
+
 <h1 align="center">Wires, Data Types & TypeCasting</h1>
 <h2 align="left">Wires:</h2>
 <p> Wires in CHISEL are a utility for constructing hardware wires.</p>
@@ -21,3 +22,4 @@
 </p> 
 <h2 align="left">Bitwidth:</h2>
 <p> Bitwidth in a CHISEL code helps in explicitly defining the bits of any data.</p>
+\

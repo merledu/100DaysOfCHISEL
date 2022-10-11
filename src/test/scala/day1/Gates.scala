@@ -2,6 +2,7 @@ package day1
 import chisel3._
 import org.scalatest._
 import chiseltest._
+
 class GatesTests extends FreeSpec with ChiselScalatestTester{
     " gates Test" in {
         test(new Gates()){ c=>
