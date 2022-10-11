@@ -1,6 +1,7 @@
 
 package day3
 import chisel3._
+
 class Bitwidth extends Module{
     val io=IO(new Bundle{            //Bundle Definition
         val input = Input(UInt(4.W))   //Datatype
