@@ -9,6 +9,6 @@
 | Day3 | Wires, Data Types & Typecasting | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day3) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day3)|
 | Day4 | Basic Mux | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day4) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day4)|
 | Day5 |   Conditional Statements| [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day5) |[test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day5)|
-| Day6 | Mux 1H | [main](https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/main/scala/day6) | [test]                         (https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/test/scala/day6) |
-| Day7 | Parameterized Mux | [main](https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/main/scala/day7) | [test]               (https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/test/scala/day7) |
-| Day8 | Switch Statement | [main](https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/main/scala/day8) | [test]         (https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/test/scala/day8) |
+| Day6 | Mux 1H | [main](https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/main/scala/day6) | [test](https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/test/scala/day6) |
+| Day7 | Parameterized Mux | [main](https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/main/scala/day7) | [test](https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/test/scala/day7) |
+| Day8 | Switch Statement | [main](https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/main/scala/day8) | [test](https://github.com/Asghar-Raza/100DaysOfCHISEL/tree/main/src/test/scala/day8) |
