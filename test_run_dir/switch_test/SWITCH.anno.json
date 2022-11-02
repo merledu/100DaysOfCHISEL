@@ -1,0 +1,23 @@
+[
+  {
+    "class":"firrtl.stage.FirrtlFileAnnotation",
+    "file":"test_run_dir/switch_test/SWITCH.lo.fir"
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~SWITCH|SWITCH>io_out",
+    "sources":[
+      "~SWITCH|SWITCH>io_sel",
+      "~SWITCH|SWITCH>io_in_a",
+      "~SWITCH|SWITCH>io_in_b"
+    ]
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.LowFirrtlEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"test_run_dir/switch_test"
+  }
+]

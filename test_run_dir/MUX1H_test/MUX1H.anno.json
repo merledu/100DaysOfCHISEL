@@ -1,0 +1,32 @@
+[
+  {
+    "class":"firrtl.stage.FirrtlFileAnnotation",
+    "file":"test_run_dir/MUX1H_test/MUX1H.lo.fir"
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~MUX1H|MUX1H>io_out1",
+    "sources":[
+      "~MUX1H|MUX1H>io_in2",
+      "~MUX1H|MUX1H>io_in3",
+      "~MUX1H|MUX1H>io_sel"
+    ]
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~MUX1H|MUX1H>io_out",
+    "sources":[
+      "~MUX1H|MUX1H>io_in0",
+      "~MUX1H|MUX1H>io_in1",
+      "~MUX1H|MUX1H>io_sel"
+    ]
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.LowFirrtlEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"test_run_dir/MUX1H_test"
+  }
+]

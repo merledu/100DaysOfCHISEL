@@ -1,0 +1,23 @@
+[
+  {
+    "class":"firrtl.stage.FirrtlFileAnnotation",
+    "file":"test_run_dir/mux_as_parameter/PARA_MUX.lo.fir"
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~PARA_MUX|PARA_MUX>io_out",
+    "sources":[
+      "~PARA_MUX|PARA_MUX>io_sel",
+      "~PARA_MUX|PARA_MUX>io_in2",
+      "~PARA_MUX|PARA_MUX>io_in1"
+    ]
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.LowFirrtlEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"test_run_dir/mux_as_parameter"
+  }
+]
