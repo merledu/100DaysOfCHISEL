@@ -1,4 +1,4 @@
 target
 .bsp
-test_run_dir
-project
+test_run_dir/
+project/
