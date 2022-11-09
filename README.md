@@ -17,3 +17,5 @@
 | Day 11 | Bit Pattern | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day11) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day11) |
 | Day 12 | Decoder | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day12) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day12) |
 | Day 13 | Encoder | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day13) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day13) |
+| Day 14 | Parameterized Adder | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day14) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day14) |
+| Day 15 | Vector Parameterization | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day15) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day15) |
