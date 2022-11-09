@@ -15,3 +15,5 @@
 | Day 9 | Bit Pattern | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day9) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day9) |
 | Day 10 | Bit Pattern | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day10) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day10) |
 | Day 11 | Bit Pattern | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day11) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day11) |
+| Day 12 | Decoder | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day12) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day12) |
+| Day 13 | Encoder | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day13) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day13) |
