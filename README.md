@@ -19,3 +19,5 @@
 | Day 13 | Encoder | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day13) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day13) |
 | Day 14 | Parameterized Adder | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day14) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day14) |
 | Day 15 | Vector Parameterization | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day15) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day15) |
+| Day 16 | Shift Register | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day16) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day16) |
+| Day 17 | Parameterized Counter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day17) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day17) |
