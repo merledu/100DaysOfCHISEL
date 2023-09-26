@@ -21,4 +21,6 @@
 | Day 15 | Vector Parameterization | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day15) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day15) |
 | Day 16 | Shift Register | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day16) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day16) |
 | Day 17 | Parameterized Counter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day17) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day17) |
-| Day 18 | Two Stage Queue |[main](https://github.com/LaibaKhan1/100DaysOfCHISEL/blob/main/src/main/scala/day18) | [test](https://github.com/LaibaKhan1/100DaysOfCHISEL/blob/main/src/test/scala/day18) |
+| Day 18 | Two Stage Queue | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day18) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day18) |
+| Day 19 | One Shot Timer | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day19) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day19) |
+| Day 20 | Two Shot Timer | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day20) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day20) |
