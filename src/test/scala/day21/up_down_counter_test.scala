@@ -1,4 +1,4 @@
-package Lab6
+package day21
 
 import chisel3._
 import org.scalatest._
