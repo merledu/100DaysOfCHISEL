@@ -24,3 +24,4 @@
 | Day 18 | Two Stage Queue | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day18) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day18) |
 | Day 19 | One Shot Timer | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day19) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day19) |
 | Day 20 | Two Shot Timer | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day20) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day20) |
+| Day 21 | Up Down Counter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day21) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day21) |
