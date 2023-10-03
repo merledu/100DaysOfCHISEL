@@ -1,0 +1,1 @@
+Made a 2to1 MUX Using simple Mux 
