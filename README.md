@@ -25,5 +25,5 @@
 | Day 19 | One Shot Timer | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day19) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day19) |
 | Day 20 | Two Shot Timer | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day20) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day20) |
 | Day 21 | Up Down Counter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day21) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day21) |
-| Day 22 | Mux_tree_test | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day22) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day22) |
+| Day 22 | Mux_tree | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day22) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day22) |
 | Day 23 | Mux_2to1 | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day23) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day23) |
