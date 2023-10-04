@@ -1,0 +1,128 @@
+2023.10.04 20:20:21 INFO  Started: Metals version 1.0.1 in folders '/home/hafsa/100DaysOfCHISEL' for client Visual Studio Code 1.81.0.
+Oct 04, 2023 8:20:21 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.21.2 by Redgate
+Oct 04, 2023 8:20:21 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Oct 04, 2023 8:20:21 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.FlywayExecutor execute
+INFO: Database: jdbc:h2:file:/home/hafsa/100DaysOfCHISEL/.metals/metals (H2 2.1)
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.060s)
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+Oct 04, 2023 8:20:23 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.053s)
+2023.10.04 20:20:23 INFO  time: initialize in 2.35s
+2023.10.04 20:20:28 WARN  Build server is not auto-connectable.
+2023.10.04 20:21:41 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:21:51 INFO  no build target found for /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala. Using presentation compiler with project's scala-library version: 3.3.0
+2023.10.04 20:21:52 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day22/mux_tree.scala
+Oct 04, 2023 8:21:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Oct 04, 2023 8:21:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Oct 04, 2023 8:21:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Oct 04, 2023 8:21:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Oct 04, 2023 8:21:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2023.10.04 20:21:59 INFO  time: code lens generation in 4s
+2023.10.04 20:21:59 INFO  time: code lens generation in 1.81s
+2023.10.04 20:21:59 INFO  time: code lens generation in 2.42s
+2023.10.04 20:21:59 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:22:01 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:22:01 INFO  time: code lens generation in 2.31s
+2023.10.04 20:22:01 INFO  time: code lens generation in 8.39s
+2023.10.04 20:22:01 INFO  time: code lens generation in 6.67s
+2023.10.04 20:22:01 INFO  time: code lens generation in 6.53s
+2023.10.04 20:23:27 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:23:31 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:23:34 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:23:38 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+Oct 04, 2023 8:23:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 94
+2023.10.04 20:23:48 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:23:49 ERROR Failed to tokenize input for semantic tokens for /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+scala.meta.tokenizers.TokenizeException: <input>:23: error: empty quoted identifier
+``(1.U ) -> io.in1 ,
+^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getBackquotedIdent(LegacyScanner.scala:518)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:370)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:246)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1047)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:511)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.04 20:23:50 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:23:51 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:23:53 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:23:55 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+Oct 04, 2023 8:23:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 145
+2023.10.04 20:23:57 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:23:59 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:24:00 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:24:01 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:24:04 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:24:09 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:25:02 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:25:02 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:25:02 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:25:41 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:25:41 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:25:42 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:25:45 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:25:47 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:25:51 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:26:02 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:26:04 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:26:08 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:26:16 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:26:19 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+Oct 04, 2023 8:26:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 379
+2023.10.04 20:26:29 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:26:34 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:28:09 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:28:12 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:28:14 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:28:16 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day25/mux_lookup.scala
+2023.10.04 20:28:59 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:29:09 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:29:20 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:29:28 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:29:32 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:29:34 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:29:35 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
