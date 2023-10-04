@@ -27,3 +27,4 @@
 | Day 21 | Up Down Counter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day21) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day21) |
 | Day 22 | Mux_tree | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day22) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day22) |
 | Day 23 | Mux_2to1 | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day23) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day23) |
+| Day 25 | Mux_Lookup | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day25 | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day25) |
