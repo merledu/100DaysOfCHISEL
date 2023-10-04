@@ -126,3 +126,68 @@ WARNING: Unmatched cancel notification for request id 379
 2023.10.04 20:29:32 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
 2023.10.04 20:29:34 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
 2023.10.04 20:29:35 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:47:14 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:47:14 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:47:31 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:47:31 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:47:45 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:47:46 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:47:46 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:47:47 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:47:50 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:48:01 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:48:09 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:48:28 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:48:34 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:48:36 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:48:37 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:48:41 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:48:46 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:48:52 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:49:00 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:49:04 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:49:07 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:49:46 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:09 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:11 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:11 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:11 WARN  Could not find semantic tokens for: file:///home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:14 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:19 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:24 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:25 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day25/mux_lookupTest.scala
+2023.10.04 20:50:35 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:41 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:42 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:50:43 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+Oct 04, 2023 8:50:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 981
+2023.10.04 20:50:48 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:51:08 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:51:11 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:51:16 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:51:19 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:52:10 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:52:32 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:52:35 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:52:37 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:52:50 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:52:56 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:52:59 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:53:05 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:53:27 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:53:29 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:54:22 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:54:24 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:54:24 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:54:24 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/main/scala/day26/branch_control.scala
+2023.10.04 20:54:28 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:54:37 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:54:39 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+Oct 04, 2023 8:54:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1358
+2023.10.04 20:54:43 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:54:58 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:55:01 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:55:13 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
+2023.10.04 20:55:19 WARN  no build target for: /home/hafsa/100DaysOfCHISEL/src/test/scala/day26/branch_controlTest.scala
