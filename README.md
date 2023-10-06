@@ -28,3 +28,4 @@
 | Day 22 | Mux_tree | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day22) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day22) |
 | Day 23 | Mux_2to1 | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day23) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day23) |
 | Day 24 | Mux Case | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day24) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day24) |
+| Day 27 | Basic immediate extension | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day27) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day27) |
