@@ -380,3 +380,4 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 Oct 06, 2023 5:13:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2023.10.06 17:18:34 WARN  no build target for: /home/masfiyan/100DaysOfCHISEL/src/main/scala/day27/ImmExtension.scala
+2023.10.06 17:19:26 WARN  no build target for: /home/masfiyan/100DaysOfCHISEL/src/test/scala/day27/ImmExtensionTester.scala
