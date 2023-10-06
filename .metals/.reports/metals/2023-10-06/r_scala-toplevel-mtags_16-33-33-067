@@ -1,0 +1,10 @@
+id: file://<WORKSPACE>/src/main/scala/day27/ImmExtension.scala:[62..62) in Input.VirtualFile("file://<WORKSPACE>/src/main/scala/day27/ImmExtension.scala", "package day27
+
+import chisel3._
+import chisel3.util._
+
+class 
+")
+file://<WORKSPACE>/src/main/scala/day27/ImmExtension.scala:7: error: expected identifier; obtained eof
+
+^
