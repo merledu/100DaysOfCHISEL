@@ -31,3 +31,4 @@
 | Day 25 | Mux LookUp | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day25) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day25) |
 | Day 26 | Basic Branch_Control | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day26) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day26) |
 | Day 27 | Basic immediate extension | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day27) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day27) |
+| Day 28 | Basic Black Box Adder | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day28) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day28) |
