@@ -1,0 +1,1 @@
+# FSM for decoding Manchester encoding
