@@ -34,4 +34,5 @@
 | Day 28 | Basic Black Box Adder | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day28) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day28) |
 | Day 29 | Arbiter Queue | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day29) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day29) |
 | Day 30 | Finite State Machine | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day30) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day30) |
-| Day 31 | Finite State Machine | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day31) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day31) |
+| Day 31 | FSM for decoding Manchester encoding | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day31) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day31) |
+| Day 32 | FSM Up down Counter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day32) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day32) |

@@ -5,10 +5,9 @@ import chisel3.util._
 import org.scalatest._
 import chiseltest._
 
-class MyChiselModuleTester extends FlatSpec with ChiselScalatestTester {
-    "BlackBoxAdder" in{
-        test(new MyChiselModule) { 
-            c =>
+class MyChiselModuleTest extends FreeSpec with ChiselScalatestTester {
+    "BlackBoxAdderTest " in{
+        test(new MyChiselModule) { c =>
       // Set input values
             c.io.inA.poke(2.U)
             c.io.inB.poke(3.U)
