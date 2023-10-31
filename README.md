@@ -36,3 +36,4 @@
 | Day 30 | Finite State Machine | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day30) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day30) |
 | Day 31 | FSM for decoding Manchester encoding | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day31) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day31) |
 | Day 32 | FSM Up down Counter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day32) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day32) |
+| Day 33 | Uart Transmitter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day33) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day33) |
