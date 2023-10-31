@@ -38,3 +38,4 @@
 | Day 32 | FSM Up down Counter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day32) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day32) |
 | Day 33 | Uart Transmitter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day33) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day33) |
 | Day 34 | Detect Sequence| [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day34) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day34) |
+| Day 35 | Priority Arbiter | [main](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/main/scala/day35) | [test](https://github.com/merledu/100DaysOfCHISEL/tree/main/src/test/scala/day35) |
